@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">English</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="editMessage">Enter a word</string>
+    <string name="button_lable">Search</string>
+    <string name="english_hindi">English ⇄ Hindi</string>
+    <string name="words_phrases">Words, Phrases Or Sentence</string>
+    <string name="inputWord">Input Word</string>
+    <string name="adjective">Adjective</string>
+
+    <string name="usage_in_sentences">Usage in sentences</string>
+    <string name="_1_she_looks_sensational_in_her_new_dress">(1) She looks sensational in her new dress.</string>
+    <string name="_2_the_sensational_news_story_caused_a_stir">(2) The sensational news story caused a stir.</string>
+</resources>
