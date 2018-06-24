@@ -115,7 +115,7 @@ class SearchPageRunnable implements Runnable {
             }
 
 
-            inputWord.setText(wordToSearch+"s");
+            inputWord.setText(wordToSearch);
             usage1.setText(commonUsageInHindiString1);
             usage2.setText(commonUsageInHindiString2);
             meaningInHindiMeaning.setText(meaning);
