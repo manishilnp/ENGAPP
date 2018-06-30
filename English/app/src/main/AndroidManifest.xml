@@ -22,7 +22,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".SearchPageActivity" />
-        <activity android:name=".EnglishToHindiActivity"></activity>
+        <activity android:name=".EnglishToHindiActivity" />
+        <activity
+            android:name=".Flash"
+            android:label="@string/title_activity_flash" />
+        <activity
+            android:name=".Chat"
+            android:label="@string/title_activity_chat"></activity>
     </application>
 
 </manifest>
